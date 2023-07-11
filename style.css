@@ -47,6 +47,10 @@ h3{
     margin: 10px auto;
 }
 @media (max-width: 480px) {
+    body{
+         height: 80vh;
+    width: auto;
+    }
     #input{
         font-size: 20px;
         align-items: center;
